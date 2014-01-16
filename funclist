@@ -1,0 +1,10 @@
+_Delayx: CODE, 65366 0 60
+_InitUart1: CODE, 65280 0 40
+_InitTimer1: CODE, 65198 0 22
+_InitTimer3: CODE, 65178 0 20
+_main: CODE, 65244 0 36
+__initialization: CODE, 65164 0 8
+_Init26k20: CODE, 65320 0 46
+_Init_IO: CODE, 65220 0 24
+_lightshow: CODE, 65426 0 110
+Total: 366
